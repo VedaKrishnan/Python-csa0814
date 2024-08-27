@@ -1,0 +1,6 @@
+a=5
+b=10
+c=15
+d= math.gcd(a,b,c)
+e=math.lcm(a,b,c)
+print(d,e)
