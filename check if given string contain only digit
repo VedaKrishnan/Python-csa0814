@@ -1,0 +1,7 @@
+a="123"
+if a.isdigit():
+    print("true")
+else:
+    print("false")
+#for sentance
+      we use is digit to isalpha()
